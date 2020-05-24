@@ -1,0 +1,15 @@
+C:\Users\apaig\Documents\VSRepo\SoccerStats\SoccerStats\bin\Debug\netcoreapp3.1\data.txt
+C:\Users\apaig\Documents\VSRepo\SoccerStats\SoccerStats\bin\Debug\netcoreapp3.1\SoccerStats.exe
+C:\Users\apaig\Documents\VSRepo\SoccerStats\SoccerStats\bin\Debug\netcoreapp3.1\SoccerStats.deps.json
+C:\Users\apaig\Documents\VSRepo\SoccerStats\SoccerStats\bin\Debug\netcoreapp3.1\SoccerStats.runtimeconfig.json
+C:\Users\apaig\Documents\VSRepo\SoccerStats\SoccerStats\bin\Debug\netcoreapp3.1\SoccerStats.runtimeconfig.dev.json
+C:\Users\apaig\Documents\VSRepo\SoccerStats\SoccerStats\bin\Debug\netcoreapp3.1\SoccerStats.dll
+C:\Users\apaig\Documents\VSRepo\SoccerStats\SoccerStats\bin\Debug\netcoreapp3.1\SoccerStats.pdb
+C:\Users\apaig\Documents\VSRepo\SoccerStats\SoccerStats\obj\Debug\netcoreapp3.1\SoccerStats.csprojAssemblyReference.cache
+C:\Users\apaig\Documents\VSRepo\SoccerStats\SoccerStats\obj\Debug\netcoreapp3.1\SoccerStats.AssemblyInfoInputs.cache
+C:\Users\apaig\Documents\VSRepo\SoccerStats\SoccerStats\obj\Debug\netcoreapp3.1\SoccerStats.AssemblyInfo.cs
+C:\Users\apaig\Documents\VSRepo\SoccerStats\SoccerStats\obj\Debug\netcoreapp3.1\SoccerStats.csproj.CoreCompileInputs.cache
+C:\Users\apaig\Documents\VSRepo\SoccerStats\SoccerStats\obj\Debug\netcoreapp3.1\SoccerStats.dll
+C:\Users\apaig\Documents\VSRepo\SoccerStats\SoccerStats\obj\Debug\netcoreapp3.1\SoccerStats.pdb
+C:\Users\apaig\Documents\VSRepo\SoccerStats\SoccerStats\obj\Debug\netcoreapp3.1\SoccerStats.genruntimeconfig.cache
+C:\Users\apaig\Documents\VSRepo\SoccerStats\SoccerStats\bin\Debug\netcoreapp3.1\SoccerGameResults.csv
